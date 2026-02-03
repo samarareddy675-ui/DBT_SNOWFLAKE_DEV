@@ -1,0 +1,7 @@
+sources:
+  - name:ppds
+    database: edw_dev_db 
+    schema: ppds  
+    tables:
+      - name: test
+    
